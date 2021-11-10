@@ -1,0 +1,13 @@
+body{
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.campo{
+    margin: 20px;
+    margin-bottom: 20px;
+}
+.w-50{
+    width: 50px;
+}
+.tab{
+    padding-left: 4rem;
+}
